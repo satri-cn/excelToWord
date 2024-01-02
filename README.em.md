@@ -1,5 +1,5 @@
 # excelToWord
-一个专注于标准格式文书处理的开源项目，旨在提高法律等从业人员处理大量文档的效率。 该项目通过搜索Excel表格和Word文档中的内容，建立对应关系，实现了自动化的文书生成过程。 通过简化从Excel到Word的数据转移，减轻专业人士在繁琐文书工作中的负担。
+An open source project focusing on standard format paperwork processing , aims to improve the law and other practitioners to deal with the efficiency of a large number of documents . The project automates the process of generating paperwork by searching Excel tables and Word documents to establish correspondences . By simplifying the transfer of data from Excel to Word , reducing the burden of professionals in the tedious paperwork .
 
 ## Project setup
 ```
