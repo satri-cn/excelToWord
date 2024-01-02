@@ -6,7 +6,7 @@
 通过简化从Excel到Word的数据转移，减轻专业人士在繁琐文书工作中的负担。
 
 #### 演示地址
-[excelToWord演示](https://satri.cn/project/excelToWord)
+[excelToWord演示](https://satri.cn/projects/excelToWord)
 
 #### 安装依赖
 ```
